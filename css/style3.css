@@ -1,0 +1,52 @@
+body {
+	background-color: #202020;
+}
+header {
+	background-image: url(../img/lselogoheader.jpg);
+	background-size: cover;
+	height: 70vh;
+	background-position: center;
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+}
+.img-circle {
+	border-radius: 50%;
+	width: 50%;
+	text-align: center;
+}
+.text-center {
+	text-align: center;
+	font-weight: bold;
+}
+.text-header {
+	background color: white;s
+	font-weight: bold;
+	font-size: 40px;
+}
+.card {
+	background-color: white;
+	padding: 4px;
+	border: solid red;
+}
+.padding {
+	padding-top: 4px;
+}
+.card-block {
+	font-size: 14px;
+}
+.card-title {
+	font-size: 16px;
+}
+.res-subject {
+	font-weight: bold;
+}
+.in-lign {
+	display: inline-block;
+	line-height: 0px;
+	font-weight: bold;
+}
+.text-right {
+	float: right;
+    padding-right: 19px;
+    line-height: 20px;
+}

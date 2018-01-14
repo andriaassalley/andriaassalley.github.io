@@ -1,0 +1,25 @@
+
+
+body {
+	font-family: 'Oswald', sans-serif;
+	background-color: #009933;
+	color:  white;
+}
+.logo {
+	border-radius: 50%;
+}
+.banner {
+	background-color: white;
+	border: 12px solid #F0E68C;
+	padding: 15px;
+	color: #001a00;
+}
+.footer {
+	text-align: center;
+	background-color: #F0E68C;
+	color: #001a00;
+	border: 3px solid white;
+}
+.center {
+	text-align: center;
+}
